@@ -9,12 +9,13 @@ googleAnalytics = ""
     description = "Thinking about thinking."
     githubUsername = "adamblake"
     accent = "#007BFF"
-    showBorder = true
     backgroundColor = "#FFFFFF"
+    favicon = "favicon.ico"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
     highlightLanguages = []
+    showBorder = true
 
 [[menu.main]]
     url = "/"
