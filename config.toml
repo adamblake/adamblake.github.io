@@ -54,4 +54,9 @@ googleAnalytics = ""
 [[menu.icon]]
     url = "https://www.linkedin.com/in/adamblake/"
     name = "fab fa-linkedin"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://scholar.google.com/citations?user=elj-XecAAAAJ&hl=en"
+    name = "ai ai-google-scholar-square"
     weight = 4
