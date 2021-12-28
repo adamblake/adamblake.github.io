@@ -1,0 +1,11 @@
+{{ define "partials/card/service-right" }}
+  <strong>{{ .context.title }}</strong>, {{ .context.name }}
+  {{ if .context.location }}<br><em>{{ .context.location }}</em>{{ end }}
+  {{ if .context.details }}<br>{{ .context.details }}{{ end }}
+  {{ if .context.link }}<br><a href="{{ .context.link }}">{{ .context.link }}</a>{{ end }}
+{{ end }}
+
+{{ partial "card/_dated.html" (dict 
+  "left" .context.dates 
+  "right" (partial "card/service-right" . )
+)}}

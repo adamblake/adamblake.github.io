@@ -1,0 +1,122 @@
+{{ partial "header" . }}
+
+<main>
+
+  <header>
+    <h2>{{ .Title }}</h2>
+    <h5>{{ .Params.last_updated }}</h5>
+    {{ partial "tags" . }}
+  </header>
+
+  <div class="content">
+    
+    <div id="contact">
+      {{ $contact := .Site.Data.cv.contact }}
+      <h3>Contact</h3>
+      <address>
+        {{ $contact.name.first }} {{ $contact.name.last }}<br>
+        <a href="mailto:{{ .Site.Data.cv.contact.email }}">{{ $contact.email }}</a><br>
+        <br>
+        {{ $contact.address.line1 }}<br>
+        {{ $contact.address.line2 }}<br>
+        {{ $contact.address.city }}, {{ $contact.address.state }}&nbsp;&nbsp;{{ $contact.address.zip }}
+      </address>
+    </div>
+
+    <div id="research-interests">
+      <h3>Research Interests</h3>
+      {{ range $index, $.Site.Data.cv.research_interests }}
+        <p>{{ $index.details }}</p>
+      {{ end }}
+    </div>
+
+    <div id="education">
+      <h3>Education</h3>
+      {{ range $index, $.Site.Data.cv.education }}
+        {{ partial "card/education.html" (dict "context" $index) }}
+      {{ end }}
+    </div>
+
+    <div id="publications">
+      <h3>Publications</h3>
+
+      <h4>Articles in refereed journals</h4>
+      {{ range $index, $.Site.Data.cv.publications.articles }}
+        {{ partial "card/publication.html" (dict "context" ($index | markdownify)) }}
+      {{ end }}
+
+      <h4>Software</h4>
+      {{ range $index, $.Site.Data.cv.publications.software }}
+        {{ partial "card/publication.html" (dict "context" ($index | markdownify)) }}
+      {{ end }}
+
+      <h4>Chapters</h4>
+      {{ range $index, $.Site.Data.cv.publications.chapters }}
+        {{ partial "card/publication.html" (dict "context" ($index | markdownify)) }}
+      {{ end }}
+
+      <h4>Posters</h4>
+      {{ range $index, $.Site.Data.cv.publications.posters }}
+        {{ partial "card/publication.html" (dict "context" ($index | markdownify)) }}
+      {{ end }}
+      
+    </div>
+
+    <div id="teaching">
+      <h3>Teaching</h3>
+      {{ range $index, $.Site.Data.cv.teaching }}
+        {{ partial "card/teaching.html" (dict "context" $index) }}
+      {{ end }}
+    </div>
+
+    <div id="mentorship">
+      <h3>Mentorship</h3>
+      {{ range $index, $.Site.Data.cv.mentorship }}
+        {{ partial "card/mentorship.html" (dict "context" $index) }}
+      {{ end }}
+    </div>
+
+    <div id="research">
+      <h3>Research</h3>
+      {{ range $index, $.Site.Data.cv.research }}
+        {{ partial "card/research.html" (dict "context" $index) }}
+      {{ end }}
+    </div>
+
+    <div id="grants">
+      <h3>Grants</h3>
+      {{ range $index, $.Site.Data.cv.grants }}
+        {{ partial "card/grant.html" (dict "context" $index) }}
+      {{ end }}
+    </div>
+
+    <div id="awards">
+      <h3>Awards</h3>
+      {{ range $index, $.Site.Data.cv.awards }}
+        <h4>{{ $index.location }}</h4>
+        {{ range $award, $index.items }}
+          {{ partial "card/award.html" (dict "context" $award) }}
+        {{ end }}
+      {{ end }}
+    </div>
+
+    <div id="service">
+      <h3>Service</h3>
+      {{ range $index, $.Site.Data.cv.service }}
+        {{ partial "card/service.html" (dict "context" $index)}}
+      {{ end }}
+    </div>
+
+    <div id="qualifications">
+      <h3>Qualifications</h3>
+      <p>A non-exhaustive, but representative list</p>
+      {{ range $index, $.Site.Data.cv.qualifications }}
+        {{ partial "card/_dated" (dict "left" $index.level "right" $index.name )}}
+      {{ end }}
+    </div>
+    
+  </div>
+
+</main>
+
+{{ partial "footer" . }}

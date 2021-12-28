@@ -1,0 +1,9 @@
+{{ define "partials/card/award-right" }}
+  {{ .context.name }}{{ if .context.value }} <em>({{ .context.value }})</em>{{ end }}
+  {{ if .context.link }}<br><a href="{{ .context.link }}">{{ .context.link }}</a>{{ end }}
+{{ end }}
+
+{{ partial "card/_dated.html" (dict 
+  "left" .context.dates 
+  "right" (partial "card/award-right" . )
+)}}

@@ -1,0 +1,11 @@
+<div class="card">
+  
+  <strong>{{ .context.degree }} in {{ .context.major }}</strong><br>
+  {{ if .context.minor }}
+  <strong>Minor in {{ .context.minor }}</strong> <br>
+  {{ end }}
+
+  <em>{{ .context.school }}</em> <br>
+  {{ .context.details }}
+
+</div>

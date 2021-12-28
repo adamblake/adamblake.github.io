@@ -1,0 +1,11 @@
+{{ define "partials/card/mentorship-right" }}
+  {{ .context.name }}<br>
+  {{ .context.program }}<br>
+  <em>{{ .context.location }}</em><br>
+  {{ .context.details }}
+{{ end }}
+
+{{ partial "card/_dated.html" (dict 
+  "left" .context.dates 
+  "right" (partial "card/mentorship-right" . )
+)}}

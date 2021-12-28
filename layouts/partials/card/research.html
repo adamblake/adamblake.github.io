@@ -1,0 +1,11 @@
+{{ define "partials/card/research-right" }}
+  <strong>{{ .context.title }}</strong><br>
+  {{ .context.name }}<br>
+  <em>{{ .context.location }}</em><br>
+  Advisor: {{ .context.advisor }}
+{{ end }}
+
+{{ partial "card/_dated.html" (dict 
+  "left" .context.dates 
+  "right" (partial "card/research-right" . )
+)}}

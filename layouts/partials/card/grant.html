@@ -1,0 +1,10 @@
+{{ define "partials/card/grant-right" }}
+  {{ .context.title }} <em>({{ .context.value }})</em><br>
+  <em>{{ .context.location }}</em><br>
+  {{ .context.details }}
+{{ end }}
+
+{{ partial "card/_dated.html" (dict 
+  "left" .context.dates 
+  "right" (partial "card/grant-right" . )
+)}}

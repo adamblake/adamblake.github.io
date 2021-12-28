@@ -1,0 +1,18 @@
+name:
+  first: Adam
+  middle: Bradley
+  middle_initial: B.
+  last: Blake
+phone: (310) 745~7081
+email: adamblake@g.ucla.edu
+url: "adamblake.github.io"
+social:
+  github: adamblake
+  linkedin: adamblake
+  google_scholar: elj-XecAAAAJ&hl
+address:
+  line1: UC Los Angeles, Dept. of Psychology
+  line2: 1285 Franz Hall
+  city: Los Angeles
+  state: CA
+  zip: 90095-1563

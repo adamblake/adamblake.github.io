@@ -1,0 +1,10 @@
+{{ define "partials/card/teaching-right" }}
+  <strong>{{ .context.course }}</strong>, {{ .context.title }}<br>
+  <em>{{ .context.location }}</em><br>
+  {{ .context.details | safeHTML }}
+{{ end }}
+
+{{ partial "card/_dated.html" (dict 
+  "left" .context.dates 
+  "right" (partial "card/teaching-right" . )
+)}}

@@ -1,0 +1,386 @@
+contact:
+  name:
+    first: Adam
+    middle: Bradley
+    middle_initial: B.
+    last: Blake
+  email: adamblake@g.ucla.edu
+  url: "adamblake.github.io"
+  social:
+    github: adamblake
+    linkedin: adamblake
+    google_scholar: elj-XecAAAAJ&hl
+  address:
+    line1: UC Los Angeles, Dept. of Psychology
+    line2: 1285 Franz Hall
+    city: Los Angeles
+    state: CA
+    zip: 90095-1563
+
+
+research_interests:
+  - topic: Self-assessment During Learning
+    details: What factors influence students’ judgments and decisions about learning? How do these factors inform us about the underlying mechanisms of metacognition?
+
+  - topic: Educational and Training Applications
+    details: What strategies do students adopt or endorse when approaching different learning materials? How can instruction and learning materials improve students’ judgments of their own learning?
+
+
+education:
+  - school: University of California, Los Angeles
+    degree: Ph.D.
+    major: Cognitive Psychology
+    minor: Quantitative Psychology
+    year: 2018
+    details: |
+      Dissertation: Factors that influence metacognitive judgments: Effects at
+      encoding, in the presence of diagnostic cues, and after incidental encoding
+
+  - school: University of California, Los Angeles
+    degree: M.A.
+    major: Cognitive Psychology
+    year: 2013
+    details: |
+      Thesis: On belief and fluency in the construction of judgments of learning:
+      Assessing and altering the direct effects of belief
+
+  - school: California State University, Fresno
+    degree: B.A.
+    major: Psychology
+    minor: Instrumental Music
+    year: 2012
+    details: |
+      Degree honors: Summa cum laude; Scholar, Smittcamp Family Honors College
+
+
+publications:
+  in_prep:
+    - |
+      Blake, A. B., Hargis, M. B., & Castel, A. D. (under revision). Associative memory and metamemory across domains: Learning foreign vocabulary and medication side effects. *Applied Cognitive Psychology*.
+
+    - |
+      Middlebrooks, C. D., Blake, A. B., Hansen, H. A., Kerr, T. K., & Castel, A. D. (in-prep.). *Eye remember this: Impression formation and memory for eye colors*.
+
+  articles:
+    - |
+      Son, J. Y., Blake, A. B., Fries, L., & Stigler, J. W. (2021). Modeling first: Applying learning science to the teaching of introductory statistics. *Journal of Statistics and Data Science Education*, *29*(1), 4-21. [https://doi.org/10.1080/10691898.2020.1844106](https://doi.org/10.1080/10691898.2020.1844106).
+
+    - |
+      Stigler, J. W., Son, J. Y., Givvin, K. B., Blake, A. B., Fries, L., Shaw, S. T., & Tucker, M. C. (2020). The Better Book model for education research and development. *Teachers College Record*, *122*(9), 1-32. [https://www.tcrecord.org/Content.asp?ContentId=23401](https://www.tcrecord.org/Content.asp?ContentId=23401).
+
+    - |
+      Blake, A. B., & Castel, A. D. (2018). On belief and fluency in the construction of judgments of learning: Assessing and altering the direct effects of belief. *Acta Psychologica*, *186*, 27–38. [https://doi.org/10.1016/j.actpsy.2018.04.004](https://doi.org/10.1016/j.actpsy.2018.04.004)
+
+    - |
+      Blake, A. B., & Castel, A. D. (2018). Memory and availability-biased metacognitive illusions for flags of varying familiarity. *Memory & Cognition*. [https://doi.org/10.3758/s13421-018-0872-y](https://doi.org/10.3758/s13421-018-0872-y)
+
+    - |
+      Murayama, K., Blake, A. B., Kerr, T., & Castel, A. D. (2016). When enough is not enough: Information overload and metacognitive decisions to stop studying information. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, *42*(6), 914–924. [https://doi.org/10.1037/xlm0000213](https://doi.org/10.1037/xlm0000213)
+
+    - |
+      Blake, A. B., Nazarian, M., & Castel, A. D. (2015). The Apple of the mind’s eye: Everyday attention, metamemory, and reconstructive memory for the Apple logo. *The Quarterly Journal of Experimental Psychology*, *68*(5), 858–865. [https://doi.org/10.1080/17470218.2014.1002798](https://doi.org/10.1080/17470218.2014.1002798)
+
+    - |
+      Oswald, K. M., Blake, A. B., & Santiago, D. T. (2014). Enhancing immediate retention with clickers through individual response identification. *Applied Cognitive Psychology*, *442*(3), 438–442. [https://doi.org/10.1002/acp.3010](https://doi.org/10.1002/acp.3010)
+
+  chapters:
+    - |
+      Castel, A. D., Nazarian, M., & Blake, A. B. (2015). Attention and incidental memory in everyday settings. In J. M. Fawcett, E. F. Risko, & A. Kingstone (Eds.), *The Handbook of Attention* (pp. 463–483). Cambridge, MA: MIT Press.
+
+    - |
+      Blake, A. B., & Castel, A. D. (2015). Metamemory. In S. K. Whitbourne (Ed.), *The Encyclopedia of Adulthood and Aging* (1st ed., pp. 1–5). Hoboken, NJ: John Wiley & Sons, Inc. [https://doi.org/10.1002/9781118521373.wbeaa043](https://doi.org/10.1002/9781118521373.wbeaa043)
+
+  software: 
+    - |
+      Blake, A. B., & Stigler, J. W. (2021). Track student engagement on webpages. [https://uclatall.github.io/engauge](https://uclatall.github.io/engauge)
+
+    - |
+      Blake, A. B., & Stigler, J. W. (2021). ckcode: Power up your webpage with live Jupyter cells. [https://uclatall.github.io/ckcode](https://uclatall.github.io/ckcode)
+
+    - |
+      Blake, A. B., Son, J. Y., & Stigler, J. W. (2020). coursekata: A collection of packages and functions for teaching statistics and data science. [https://github.com/UCLATALL/coursekata-r](https://github.com/UCLATALL/coursekata-r)
+
+    - |
+      Blake, A. B., Winjum, B. J., & Stigler, J. W. (2020). nbteach: Author, distribute, and grade Jupyter notebook assignments, simply. [https://uclatall.github.io/nbteach](https://uclatall.github.io/nbteach)
+
+    - |
+      Blake, A. B., Chrabaszcz, J. R., Son, J. Y., & Stigler, J. W. (2020). supernova: An R package for teaching statistics from a modeling perspective. [https://github.com/UCLATALL/supernova](https://github.com/UCLATALL/supernova)
+
+    - |
+      Blake, A. B., Tucker, M. C., & Stigler, J. W. (2019). CourseKataData: Work with data from CourseKata data science classes. [https://github.com/UCLATALL/CourseKataData](https://github.com/UCLATALL/CourseKataData)
+    
+    - |
+      Haffey, A., Plat, K. T., Mane, P., Blake, A., & Chakrabarti, B. (2020, August 2). Open source online behavioural experimentation using Collector: Proof of principle & sample size considerations. https://doi.org/10.31234/osf.io/u3saf
+
+    - |
+      Garcia, M. A., Kerr, T. K., Blake, A. B., & Haffey, A. T. (2016). Collector. [https://github.com/gikeymarcia/Collector](https://github.com/gikeymarcia/Collector)
+
+  posters:
+    - |
+      Blake, A. B., Fries, L. C., Son, J. Y., & Stigler, J. W. (2019). *Applying learning science to improve transfer in introductory statistics*. Paper presented at the 60th annual meeting of the Psychonomic Society, Montréal, Québec, Canada.
+
+    - |
+      Nguyentan, C., Blake, A. B., & Castel, A. D. (2017). *Memory and metamemory for medication side effects in context and out of context in younger adults*. Poster presented at the 4th annual UCLA Undergraduate Research Week, Los Angeles, CA.
+
+    - |
+      Blake, A. B., & Castel, A. D. (2017). *In-sight, out-of-mind: Attention and learning for familiar flags*. Poster presented at the 58th annual meeting of the Psychonomic Society, Vancouver, British Columbia, Canada.
+
+    - |
+      Hansen, H. A., Middlebrooks, C. D., Blake, A. B., & Castel, A. D. (2016). *Eye recognize this: The effect of impression formation on memory for eye colors*. Poster presented at the 3rd annual UCLA Undergraduate Research Week, Los Angeles, CA.
+
+    - |
+      Blake, A. B., Hargis, M. B., & Castel, A. D. (2016). *Differences in associative memory and metamemory across domains: Foreign vocabulary and medications*. Poster presented at the 57th annual meeting of the Psychonomic Society, Boston, MA.
+
+    - |
+      Noh, S. M., Kerr, T. K., & Blake, A. B. (2015). *Font size and value framing effects on memory and metamemory*. Poster presented at the 56th annual meeting of the Psychonomic Society, Chicago, IL.
+
+    - |
+      Blake, A. B., Kerr, T. K., & Castel, A. D. (2015). *Memory for flags: Stars, stripes, and flagging memories*. Poster presented at the 56th annual meeting of the Psychonomic Society, Chicago, IL.
+
+    - |
+      Nazarian, M., Blake, A. B., & Castel, A. D. (2014). *One byte at a time: Memory for the Apple logo*. Poster presented at the 23rd annual Psychology Undergraduate Research Conference, Los Angeles, CA.
+
+    - |
+      Blake, A. B., Nazarian, M., & Castel, A. D. (2014). *The Apple of the mind’s eye: reconstructive memory for the Apple logo*. Poster presented at the 55th annual meeting of the Psychonomic Society, Long Beach, CA.
+
+    - |
+      Blake, A. B., Nazarian, M., & Castel, A. D. (2014). *Not so simple Apple: Generic memory for the Apple logo*. Poster presented at the 26th annual meeting of the Association for Psychological Science, San Francisco, CA.
+
+    - |
+      Blake, A. B., & Castel, A. D. (2014). *The belief-based judgment of learning for words in small and large font*. Poster presented at the 55th annual meeting of the Psychonomic Society, Long Beach, CA.
+
+    - |
+      Murayama, K., Blake, A. B., & Castel, A. D. (2013). *Enough is enough: Metacognitive decisions to continue or halt study*. Poster presented at the 54th annual meeting of the Psychonomic Society, Toronto, Ontario, Canada.
+
+    - |
+      Pilegard, C., Blake, A. B., & Oswald, K. M. (2012). *Evaluating betting as a tool for improving metacognitive calibration*. Poster presented at the 31st annual Central California Research Symposium, Fresno, CA.
+
+    - |
+      Oswald, K. M., Gonzalez, J., Pilegard, C., & Blake, A. B. (2012). *Generalizing the betting technique for increasing metacognitive accuracy*. Poster presented at the 92nd annual meeting of the Western Psychological Association, Burlingame, CA.
+
+    - |
+      Oswald, K. M., Blake, A. B., & Santiago, D. T. (2012). *Identifiability affects recall performance in clicker response systems*. Poster presented at the 92nd annual meeting of the Western Psychological Association, Burlingame, CA.
+
+
+research:
+  - dates: 2020 -
+    title: Assistant Project Scientist
+    name: Teaching and Learning Lab
+    location: University of California, Los Angeles
+    advisor: James W. Stigler
+
+  - dates: 2018 – 2020
+    title: Postdoctoral Fellow
+    name: Teaching and Learning Lab
+    location: University of California, Los Angeles
+    advisor: James W. Stigler
+
+  - dates: 2012 – 2019
+    title: Researcher
+    name: Memory and Lifespan Cognition Lab
+    location: University of California, Los Angeles
+    advisor: Alan D. Castel
+
+  - dates: 2012 – 2019
+    title: Researcher
+    name: CogFog Learning and Memory Research Group
+    location: University of California, Los Angeles
+    advisor: Robert A. Bjork, Elizabeth L. Bjork, Alan D. Castel, Barbara Knowlton
+
+  - dates: 2011 – 2012
+    title: Undergraduate Honors Researcher
+    name: Independent Honors Research Project
+    location: California State University, Fresno
+    advisor: Karl M. Oswald, Lorin Lachs
+    details: "Thesis: The effects of the human voice and music on efficacy of study"
+
+  - dates: 2010 – 2012
+    title: Research Assistant
+    name: Memory and Applied Cognition Lab
+    advisor: Karl M. Oswald
+    location: California State University, Fresno
+
+  - dates: 2010 – 2012
+    title: Research Assistant
+    name: Judgment and Reasoning Lab
+    location: California State University, Fresno
+    advisor: Paul C. Price
+
+
+mentorship:
+  - dates: 2015 – 2016
+    name: Heather A. Hansen
+    program: Independent Research
+    location: University of California, Los Angeles
+    details: |
+      Thesis: The effect of impression formation on memory for eye colors
+
+  - dates: 2013 – 2014
+    name: Meenely Nazarian
+    program: Psychology Research Opportunity Programs
+    location: University of California, Los Angeles
+    details: |
+      Thesis: Everyday attention and memory for the Apple logo
+
+
+teaching:
+  - dates: 2019 – 2020
+    title: Lecturer
+    course: "PSYCH 100A: Psychological Statistics"
+    location: University of California, Los Angeles
+    details: Summer 2019 (SSA); Summer 2020 (SSA & SSC)
+
+  - dates: 2015 – 2017
+    title: Lecturer
+    course: The Berkeley Review
+    location: Los Angeles, CA; Irvine, CA
+    details: |
+      Independently prepared and taught lectures to prepare students for
+      relevant portions of the Medical College Admission Test (MCAT). Lectures
+      included
+      <ul>
+        <li>Classic Experiments and Disorders</li>
+        <li>Cognitive Psychology I & II</li>
+        <li>Experimental Logic and Methods</li>
+        <li>Sensation & Perception</li>
+      </ul>
+
+
+teaching_assisting:
+  - course: "PSYCH 85: Intro to Cognitive Science"
+    dates: Spring, 2016
+
+  - course: "PSYCH 100A: Psychological Statistics"
+    dates: Spring 2017, 2018
+    details: |
+      Guest Lectures: t-distribution, Paired-samples t-test
+
+  - course: "PSYCH 100B: Research Methodology"
+    dates: Spring, 2014; Fall, 2014; Summer, 2015, 2016, 2017; Fall 2017
+
+  - course: "PSYCH 120A: Cognitive Psychology"
+    dates: Fall, 2013; Winter, 2015; Fall, 2015; Winter 2016; Fall, 2016, Winter 2018
+    details: |
+      Guest Lectures: Problem Solving, Selective Attention, Language
+
+  - course: "PSYCH 121: Cognitive Psychology Lab"
+    dates: Winter, 2014; Spring, 2015; Winter, 2016
+    details: |
+      Guest Lecture: Creating Psychological Experiments Programmatically
+
+
+grants:
+  - dates: 2020
+    title: McMaster COVID-19 Research Fund
+    location: McMaster University (Hamilton, Ontario, Canada)
+    value: $44862
+    details: |
+      Incorporating active learning techniques in online classrooms
+
+  - dates: 2015
+    title: CCLE Innovation and Development Program Grant
+    location: University of California, Los Angeles
+    value: $3494
+    details: |
+      Developing an online tool that patches, enhances, and extends software
+      capabilities within Research Methods in Psychology
+
+
+awards:
+  - location: University of California, Los Angeles
+    items:
+    - dates: 2017
+      name: "Nominee: UCLA Academic Senate Distinguished Teaching Assistant"
+      link: https://senate.ucla.edu/funding-opportunities/awards/DTA
+    - dates: 2016
+      name: Shepherd Ivory Franz Distinguished Teaching Assistant
+    - dates: 2014, 2013
+      name: Graduate Summer Research Mentorship
+      value: $6,000 ea.
+    - dates: 2012
+      name: University Fellowship
+      value: $21,000
+    - dates: 2012
+      name: Edwin W. Pauley Fellowship
+      value: $30,000
+
+  - location: California State University, Fresno
+    items:
+    - dates: 2008 – 2012
+      name: President’s Honors Scholarship
+      value: $35,000
+      details: Enrollment in Smittcamp Family Honors College
+    - dates: 2011 – 2012
+      name: Honors Program in Psychology
+    - dates: 2011
+      name: Carl Levin, College of Science and Mathematics Scholarship
+    - dates: 2011
+      name: Faculty Sponsored Student Research Award
+
+
+service:
+  - title: Invited expert
+    dates: 10 Aug 2016
+    name: Science of Memory panel
+    location: ArcLight Cinema, Hollywood, CA
+    details: Gave expert opinions and discussion at a panel followed a screening of the film Embers with Claire Carré (writer, director) as part of the Slamdance Film Festival
+    link: http://www.embersmovie.com/cinema/
+
+  - title: Symposium Director
+    dates: 2013 – 2016
+    name: The 3rd, 4th, and 5th annual Psychology in Action Symposium
+    location: University of California, Los Angeles
+    details: "Symposia titles: Ballot Behavior: Politics and Psychology; Building Minds: Microchips & Molecules; and Guilty Minds: The Intersection between Psychology and Law"
+    link: https://www.psychologyinaction.org/events/
+
+  - title: Event Coordinator
+    dates: 2012 – 2013
+    name: 2nd annual Psychology in Action Symposium
+    location: University of California, Los Angeles
+    details: "Mental Notes: Music, Cognition, and the Brain"
+    link: https://www.psychologyinaction.org/events/
+
+  - title: Faculty Liaison, Member
+    dates: 2012 – 2013
+    name: Psychology Graduate Students Association
+
+
+affiliations:
+  - dates: 2013 – current
+    name: Psychonomic Society
+    title: Member
+
+
+qualifications:
+  - name: R statistics
+    level: ⬛ ⬛ ⬛ ⬛ ⬛
+
+  - name: R package development
+    level: ⬛ ⬛ ⬛ ⬛ ⬛
+
+  - name: Jupyter notebooks
+    level: ⬛ ⬛ ⬛ ⬛ ⬛
+
+  - name: git / GitHub
+    level: ⬛ ⬛ ⬛ ⬛ ⬜
+
+  - name: Javascript / HTML / CSS
+    level: ⬛ ⬛ ⬛ ⬛ ⬜
+
+  - name: GitHub-Pages / Jekyll / Liquid
+    level: ⬛ ⬛ ⬛ ⬛ ⬜
+  
+  - name: Hugo
+    level: ⬛ ⬛ ⬜ ⬜ ⬜
+
+  - name: Python
+    level: ⬛ ⬛ ⬛ ⬜ ⬜
+
+  - name: PHP
+    level: ⬛ ⬛ ⬛ ⬜ ⬜
+
+  - name: Music Theory / Scoring
+    level: ⬛ ⬛ ⬛ ⬛ ⬜
+
+  - name: Guitar
+    level: ⬛ ⬛ ⬛ ⬜ ⬜
