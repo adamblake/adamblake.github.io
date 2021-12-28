@@ -7,17 +7,16 @@ a:visited {
   color: #888888;
 }
 
+.cv h2 {
+  margin-top: 1.5em;
+}
+
+.cv h3, .cv h4 {
+  margin-top: 1em;
+}
+
 .card {
   margin-bottom: 1.5em;
-}
-
-.card.container {
-  padding-left: 0;
-  padding-right: 0;
-}
-
-.card.container > .card-left {
-  padding-left: 0;
 }
 
 .content {
