@@ -1,0 +1,30 @@
+a, a:link {
+  text-decoration: underline;
+  color: black;
+}
+
+a:visited {
+  color: #888888;
+}
+
+.card {
+  margin-bottom: 1.5em;
+}
+
+.card.container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.card.container > .card-left {
+  padding-left: 0;
+}
+
+.content {
+  text-align: start;
+}
+
+.hanging-indent {
+  padding-left: 22px;
+  text-indent: -22px;
+}
