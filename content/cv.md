@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
-last_updated: December 2021
-date: 2021-12-26T20:55:41-08:00
+last_updated: November 2023
+date: 2023-11-17T10:26:00-08:00
 type: page
 layout: cv
 ---
