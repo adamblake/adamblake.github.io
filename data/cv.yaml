@@ -82,34 +82,34 @@ publications:
 
   software:
     - |
-      Blake, A. B., Son, J. Y., & Stigler, J. W. (2023). `coursekata`: Easily install and load all packages and functions used in 'CourseKata' courses. Aid teaching with helper functions and augment generic functions to provide cohesion between the network of packages. R package version 0.14.1, <https://CRAN.R-project.org/package=coursekata>
+      Blake, A. B., Son, J. Y., & Stigler, J. W. (2023). _coursekata: Easily install and load all packages and functions used in 'CourseKata' courses. Aid teaching with helper functions and augment generic functions to provide cohesion between the network of packages._ R package version 0.14.1, <https://CRAN.R-project.org/package=coursekata>
 
     - |
-      Blake, A. B. (2023). mo: Methodically Organize CourseKata data. Retrieved from <https://github.com/coursekata/mo>
+      Blake, A. B. (2023). _mo: Methodically Organize CourseKata data._ Retrieved from <https://github.com/coursekata/mo>
 
     - |
-      Blake, A. B. (2023). docker-stacks: Docker images for teaching, learning, and doing data science. Retrieved from <https://github.com/coursekata/docker-stacks>
+      Blake, A. B. (2023). _docker-stacks: Docker images for teaching, learning, and doing data science._ Retrieved from <https://github.com/coursekata/docker-stacks>
 
     - |
-      Blake, A. B., & Stigler, J. W. (2021). Track student engagement on webpages. <https://uclatall.github.io/engauge>
+      Blake, A. B., & Stigler, J. W. (2021). _Track student engagement on webpages._ <https://uclatall.github.io/engauge>
 
     - |
-      Blake, A. B., & Stigler, J. W. (2021). ckcode: Power up your webpage with live Jupyter cells. <https://coursekata.github.io/ckcode>
+      Blake, A. B., & Stigler, J. W. (2021). _ckcode: Power up your webpage with live Jupyter cells._ <https://coursekata.github.io/ckcode>
 
     - |
-      Blake, A. B., Winjum, B. J., & Stigler, J. W. (2020). ckhub: A custom JupyterHub implementation with simple teaching workflows baked in. Retrieved from <https://github.com/coursekata/ckhub>
+      Blake, A. B., Winjum, B. J., & Stigler, J. W. (2020). _ckhub: A custom JupyterHub implementation with simple teaching workflows baked in._ Retrieved from <https://github.com/coursekata/ckhub>
 
     - |
-      Blake, A. B., Chrabaszcz, J. R., Son, J. Y., & Stigler, J. W. (2020). supernova: An R package for teaching statistics from a modeling perspective. <https://CRAN.R-project.org/package=supernova>
+      Blake, A. B., Chrabaszcz, J. R., Son, J. Y., & Stigler, J. W. (2020). _supernova: An R package for teaching statistics from a modeling perspective._ <https://CRAN.R-project.org/package=supernova>
 
     - |
-      Blake, A. B., Tucker, M. C., & Stigler, J. W. (2019). CourseKataData: Work with data from CourseKata data science classes (deprecated). <https://github.com/UCLATALL/CourseKataData>
+      Blake, A. B., Tucker, M. C., & Stigler, J. W. (2019). _CourseKataData: Work with data from CourseKata data science classes (deprecated)._ <https://github.com/UCLATALL/CourseKataData>
 
     - |
       Haffey, A., Plat, K. T., Mane, P., Blake, A., & Chakrabarti, B. (2020, August 2). Open source online behavioural experimentation using Collector: Proof of principle & sample size considerations. https://doi.org/10.31234/osf.io/u3saf
 
     - |
-      Garcia, M. A., Kerr, T. K., Blake, A. B., & Haffey, A. T. (2016). Collector. [https://github.com/gikeymarcia/Collector](https://github.com/gikeymarcia/Collector)
+      Garcia, M. A., Kerr, T. K., Blake, A. B., & Haffey, A. T. (2016). _Collector._ [https://github.com/gikeymarcia/Collector](https://github.com/gikeymarcia/Collector)
 
   posters:
     - |
